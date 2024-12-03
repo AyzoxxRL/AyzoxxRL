@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @AyzoxxRL
-- 👀 I’m interested in programming lots of stuffs
+- 👋 Hi, I’m @Lecomte Nolhan
+- 👀 I’m interested in programming lots of stuffs (apache, Mysql, C#, C++...)
 - 🌱 I’m currently learning all language 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me jenaimarredetrebanenfaite@gmail.com
-- 😄 Pronouns: ...
+- 📫 How to reach me nolhan.lecomte59400@gmail.com
+- 😄 Pronouns: He
 - ⚡ Fun fact: im still studying so im learning alone, i take all advices
 
 <!---
